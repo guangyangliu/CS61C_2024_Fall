@@ -1,1 +1,1 @@
-# lab-starter
+# self_learning resources
