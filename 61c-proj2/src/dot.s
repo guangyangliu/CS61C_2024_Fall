@@ -20,7 +20,6 @@
 dot:
 
     # Prologue
-    ebreak
     li t0, 1
     blt a2, t0, ele_num_less_than_1
     blt a3, t0, stride_less_than_1
