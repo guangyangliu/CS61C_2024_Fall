@@ -67,7 +67,7 @@
     <tool lib="1" name="OR Gate"/>
   </toolbar>
   <circuit name="partial_load">
-    <a name="appearance" val="evolution"/>
+    <a name="appearance" val="logisim_evolution"/>
     <a name="circuit" val="partial_load"/>
     <a name="circuitnamedboxfixedsize" val="true"/>
     <a name="simulationFrequency" val="1.0"/>
