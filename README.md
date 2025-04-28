@@ -1,2 +1,2 @@
-# self_learning resources
-- done lec23
+- done all labs and projects expect project4, which **can't be accomplished** on local machine
+- consider to replace proj4 with lab8 from 25 spring, waiting lab8 to release!
